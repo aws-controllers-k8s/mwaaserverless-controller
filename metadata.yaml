@@ -1,0 +1,8 @@
+service:
+  full_name: "Amazon Managed Workflows for Apache Airflow Serverless"
+  short_name: "MWAA Serverless"
+  link: "https://aws.amazon.com/managed-workflows-for-apache-airflow/"
+  documentation: "https://docs.aws.amazon.com/mwaa/latest/mwaa-serverless-userguide/what-is-mwaa-serverless.html"
+api_versions:
+  - api_version: v1alpha1
+    status: available
