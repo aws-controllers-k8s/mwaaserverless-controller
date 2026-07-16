@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*~
+.idea
+.vscode
+bin
+build
+/controller
+.env
+READ_BEFORE_COMMIT.md
+.pytest_cache/
+.venv/
+__pycache__/
+*.pyc

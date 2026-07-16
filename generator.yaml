@@ -1,0 +1,5 @@
+sdk_names:
+  model_name: mwaa-serverless
+ignore:
+  resource_names:
+    - Workflow
